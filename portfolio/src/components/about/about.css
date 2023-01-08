@@ -1,0 +1,13 @@
+.about-container{
+    min-height: 100vh;
+}
+.icons-container svg{
+    font-size: 3rem;
+}
+
+.bootstrap{
+    color: rgb(109, 90, 214);
+}
+.spring{
+    color: green;
+}

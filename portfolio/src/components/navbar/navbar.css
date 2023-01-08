@@ -1,0 +1,16 @@
+.burguer{
+    border: none !important; 
+    
+}
+.burguer:focus{
+    box-shadow: none!important;
+}
+
+.navbar{
+    background-color:#5248ad
+    
+}
+.link{
+    font-weight: 400;
+    color: rgb(236, 234, 234)!important;
+}
